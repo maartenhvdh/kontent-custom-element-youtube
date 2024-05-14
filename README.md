@@ -1,8 +1,8 @@
 # Youtube element
 
-This KC custom element allows you to add various types of youtube video url, it extracts and __stores__ the video id for your apps and shows the video.
+This Kontent.ai custom element allows you to add various types of youtube video url, it extracts and __stores__ the video id for your apps and shows the video.
 
-![screenshot](https://amend.cz/youtube/youtube2.png)
+![screenshot](https://assets-eu-01.kc-usercontent.com/a917b5bf-e2e1-011e-0a73-0b317b1e1c33/b383ecc3-601e-4716-a986-9aaf9e6ef623/custom-element-youtube.png)
 
 ## Setup
 
